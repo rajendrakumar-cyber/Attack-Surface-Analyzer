@@ -1,0 +1,5 @@
+{
+  "name": "Aegis Attack Surface Analyzer",
+  "description": "AI-powered external attack surface mapping and risk prioritization tool.",
+  "requestFramePermissions": []
+}
